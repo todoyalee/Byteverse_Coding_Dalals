@@ -106,6 +106,7 @@ class DoctorSignUp extends StatelessWidget {
                   border: Border.all(color: Colors.black),
                 ),
                 child: TextField(
+                  obscureText: true,
                   controller: passwordEditingController,
                   decoration: InputDecoration.collapsed(
                     hintText: 'Password',

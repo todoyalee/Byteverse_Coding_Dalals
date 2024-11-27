@@ -91,6 +91,7 @@ class _DoctorLoginScreenState extends State<DoctorLoginScreen> {
                   border: Border.all(color: Colors.black),
                 ),
                 child: TextField(
+                  obscureText: true,
                   controller: passwordEditingController,
                   decoration: InputDecoration.collapsed(
                     hintText: 'Password',

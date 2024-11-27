@@ -34,7 +34,7 @@ class SettingsPage extends StatelessWidget {
                 Container(
                   margin: EdgeInsets.only(bottom: 10),
                   child: Text(
-                    'user-email@email.com',
+                    'm.a.belkouri@gmail.com',
                     style: TextStyle(fontSize: 16),
                   ),
                 ),

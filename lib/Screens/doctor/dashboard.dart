@@ -51,17 +51,17 @@ class _DashboardState extends State<Dashboard> {
   Widget build(BuildContext context) {
     List<Map> users = [
       {
-        "name": "Pavan Gole",
+        "name": "Dali  belkouri",
         "subtitle": "View your patients lab Analysis",
         "icon": "assets/files/lab_result.json",
       },
       {
-        "name": "Arshad Mehta",
+        "name": "son goku",
         "subtitle": "View your patients lab Analysis",
         "icon": "assets/files/lab_result.json",
       },
       {
-        "name": "Prathamesh bro",
+        "name": "ippo  bro",
         "subtitle": "View your patients lab Analysis",
         "icon": "assets/files/lab_result.json",
       },
@@ -80,7 +80,7 @@ class _DashboardState extends State<Dashboard> {
                 padding: const EdgeInsets.all(20.0),
                 child: Container(
                   child: Text(
-                    "👋 Hi $updateName",
+                    "👋 :)",
                     style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.bold,

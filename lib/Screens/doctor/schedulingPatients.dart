@@ -12,17 +12,17 @@ class SchedulingPatients extends StatelessWidget {
   Widget build(BuildContext context) {
     List<Map> usersAppointMent = [
       {
-        "name": "Pavan Gole",
+        "name": "some patient",
         "subtitle": DateFormat('EEE, MMM d, h:mm a').format(DateTime.now()),
         "icon": "assets/images/p1.jpg",
       },
       {
-        "name": "Arshad Mehta",
+        "name": "son goku",
         "subtitle": DateFormat('EEE, MMM d, h:mm a').format(DateTime.now()),
         "icon": "assets/images/p2.jpg",
       },
       {
-        "name": "Prathamesh bro",
+        "name": "ippo bro",
         "subtitle": DateFormat('EEE, MMM d, h:mm a').format(DateTime.now()),
         "icon": "assets/images/p3.jpeg",
       },
